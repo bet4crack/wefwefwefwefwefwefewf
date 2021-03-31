@@ -67,9 +67,9 @@ def welcome():
         |..........   Facebook Crack   ...........|
         +-----------------------------------------+
         |            #Author: Ha3MrX              | 
-        |	       Version 1.0                    |
- 	    |   https://www.tiktok.com/bet4crack      |
- 	    |   https://t.me/bet4crack                |
+        |	       Version 1.0                |
+ 	|   https://www.tiktok.com/bet4crack      |
+ 	|   https://t.me/bet4crack                |
         +=========================================+
         |..........  Facebook Cracker  ...........|
         +-----------------------------------------+\n\n
